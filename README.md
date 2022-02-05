@@ -29,6 +29,7 @@ We need to know the average diameter of trees in all five boroughs, which includ
 # 4. What is the status of tree health?
 
 There is one interesting data point that I observed which is when the health status is alive it counts to be 652,173 instead of 652,172 because in the given PDF it says “Field left blank if the tree is dead or stump”. There is only data point with tree status as “alive” and health field with no value. Finally, I have made borough wise health for the trees that are only alive with vertical stacked bar indicating Fair, Good and Poor with different colors along with the percentage which is shown in the below figure 6. Manhattan has the lowest health in terms of Good and with higher percentage of Fair and Poor. Hence, I would suggest the management to appoint more staffs to Manhattan.
+
 <img width="294" alt="image" src="https://user-images.githubusercontent.com/61600236/152576948-bb41bf92-ef7d-49a3-9c7d-5a53cd3866d4.png">
 <img width="210" alt="image" src="https://user-images.githubusercontent.com/61600236/152576970-041fcab5-a157-4df2-a840-6ca178f2d609.png">
 
